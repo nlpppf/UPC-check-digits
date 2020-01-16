@@ -42,6 +42,6 @@ int main()
         cout << "The 12th is " << (10 - LastDigit);
     }
     
-    // End the program\
+    // End the program
     return 0;
 }
